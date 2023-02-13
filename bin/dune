@@ -1,0 +1,4 @@
+(executable
+ (public_name testpkcs)
+ (name main)
+ (libraries pkcs11 pkcs11-driver))
